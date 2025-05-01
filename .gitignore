@@ -1,0 +1,16 @@
+.DS_Store
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Conda environment
+env/
+
+submission/*
+!submission/.gitkeep
+
+data/*
+!data/.gitkeep
