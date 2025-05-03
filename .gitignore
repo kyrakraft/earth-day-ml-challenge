@@ -14,3 +14,7 @@ submission/*
 
 data/*
 !data/.gitkeep
+
+
+*.zip
+
