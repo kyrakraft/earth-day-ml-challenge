@@ -1,4 +1,4 @@
-[HackerEarth Machine Learning challenge: Earth Day](https://www.hackerearth.com/challenges/new/competitive/hackerearth-machine-learning-challenge-earth-day/)
+[HackerEarth Machine Learning Challenge: Earth Day](https://www.hackerearth.com/challenges/new/competitive/hackerearth-machine-learning-challenge-earth-day/)
 
 Carbon Footprint Prediction Model
 
