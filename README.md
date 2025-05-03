@@ -1,3 +1,5 @@
+[HackerEarth Machine Learning challenge: Earth Day](https://www.hackerearth.com/challenges/new/competitive/hackerearth-machine-learning-challenge-earth-day/)
+
 Carbon Footprint Prediction Model
 
 This project was created for an online machine learning competition focused on predicting individual household carbon footprints using data and engineered features that reflect lifestyle, habits, 
