@@ -41,4 +41,4 @@ This solution was implemented in Python 3.11 using pandas, numpy, matplotlib, xg
 
 This was my first ever online machine learning challenge/competition, and I learned a lot in the process. (In particular, I actually lost the source file that resulted in my highest-scoring 
 submission, and could not recover it, despite a frenzied attempt to do so on Wednesday – I therefore lost some of the features I had engineered and other minor tweaks that had improved my results. 
-Won’t be making that mistake again! But will definitely be participating in more of these challenges)
+Won’t be making that mistake again! But will definitely be participating in more of these challenges.)
