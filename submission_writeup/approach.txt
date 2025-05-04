@@ -4,7 +4,7 @@ engineering, base model tuning using Optuna, and final prediction using the meta
 
 EDA:
 For exploratory analysis, histograms and boxplots were used to visualize the spread of continuous variables, assess skewness, spot outliers, etc. This, combined with a table of descriptive 
-statistics for each feature, provided initial insight and assisted in eventual feature distributions.
+statistics for each feature, provided initial insights and assisted in eventual feature engineering.
 
 A Pearson correlation heatmap was used to identify relationships between all input features and the target. The results showed that meat_consumption_kg_per_week, natural_gas_therms_per_month, and 
 vehicle_miles_per_month had the strongest linear relationships with carbon_footprint.
