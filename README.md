@@ -8,10 +8,9 @@ This project was created for an online machine learning competition focused on p
 For exploratory analysis, histograms and boxplots were used to visualize the spread of continuous variables, assess skewness, identify outliers, etc. This, combined with a table of descriptive 
 statistics for each feature, provided initial insights and assisted in eventual feature engineering.
 
-A Pearson correlation heatmap was used to identify relationships between all input features and the target. The results showed that `meat_consumption_kg_per_week`, `natural_gas_therms_per_month`, and 
-`vehicle_miles_per_month` had the strongest linear relationships with carbon_footprint.
+A Pearson correlation heatmap was used to identify relationships between all input features and the target. The features most strongly correlated with `carbon_footprint` were `meat_consumption_kg_per_week`, `natural_gas_therms_per_month`, and `vehicle_miles_per_month`.
 
-Scatterplots, including ones that were conditioned on binary variables like solar panel usage, were used to examine potential interactions. For example, plotting `electricity_kwh_per_month` against 
+Scatterplots (some conditioned on binary variables like solar panel usage) helped identify potential interactions between features. For example, plotting `electricity_kwh_per_month` against 
 `carbon_footprint` both with and without solar panel usage (`uses_solar_panels`) showed that the combination of `electricity_kwh_per_month` and `uses_solar_panels` was a stronger predictor than each feature independently.
 
 
