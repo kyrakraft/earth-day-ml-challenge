@@ -1,7 +1,7 @@
 HackerEarth Machine Learning Challenge: Earth Day
 # Carbon Footprint Prediction Model
 
-This project was created for an online machine learning competition focused on predicting individual household carbon footprints using data and engineered features that reflect lifestyle, energy behavior, and housing-related characteristics. The solution, which placed 12th out of 1000+ participants with an R<sup>2</sup> score of .8830826, uses a stacked ensemble with XGBoost, Ridge Regression, and SVR as base models, and an XGBoost meta-model. The approach involved exploratory data analysis, data preprocessing, feature engineering, base model tuning using Optuna, and final prediction using the meta-model trained on out-of-fold predictions.
+This project was created for an online machine learning competition focused on predicting individual household carbon footprints using data and engineered features that reflect lifestyle, energy behavior, and housing-related characteristics. My solution, which placed 17th out of 1000+ participants with an R<sup>2</sup> score of .8830826, uses a stacked ensemble with XGBoost, Ridge Regression, and SVR as base models, and an XGBoost meta-model. The approach involved exploratory data analysis, data preprocessing, feature engineering, base model tuning using Optuna, and final prediction using the meta-model trained on out-of-fold predictions.
 
 ## EDA:
 For exploratory analysis, histograms and boxplots were used to visualize the spread of continuous variables, assess skewness, identify outliers, etc. This, combined with a table of descriptive 
